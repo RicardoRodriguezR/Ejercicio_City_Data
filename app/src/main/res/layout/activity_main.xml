@@ -129,7 +129,7 @@
         android:layout_width="330dp"
         android:layout_height="420dp"
         android:background="@color/white"
-        android:divider="#72A324"
+        android:divider="#4481FD"
         android:dividerHeight="@dimen/cardview_default_elevation"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
